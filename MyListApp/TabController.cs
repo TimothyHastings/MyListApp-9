@@ -10,7 +10,7 @@ namespace MyListApp
 	public class TabController : TabbedPage
 	{
 		MyListPage myListPage = new MyListPage();
-		SettingsPage settingsPage = new SettingsPage();
+		SettingsPage1 settingsPage = new SettingsPage1();
 		public TabController()
 		{
 			Children.Add(myListPage);

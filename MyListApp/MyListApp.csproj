@@ -49,6 +49,7 @@
     <Compile Include="Models\Property.cs" />
     <Compile Include="Views\ImageListCell.cs" />
     <Compile Include="MyLib\Helpers.cs" />
+    <Compile Include="Views\SettingsPage1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Platform Services\" />
